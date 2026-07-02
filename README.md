@@ -227,7 +227,7 @@ The 95th percentile sequence length offers the best balance.
 ### 1️⃣ Clone Repository
 
 bash
-git clone [https://github.com/Yasaman-Khouri/bbc-sport-classifier.git](https://github.com/Yasaman-Khouri/BBC_Sports_Classification_LSTM_GRU.git)
+git clone (https://github.com/Yasaman-Khouri/BBC_Sports_Classification_LSTM_GRU.git)
 cd BBC_Sports_Classification_LSTM_GRU
 
 ### 2️⃣ Create Virtual Environment
